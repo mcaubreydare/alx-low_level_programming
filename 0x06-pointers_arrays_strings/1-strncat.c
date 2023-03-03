@@ -7,7 +7,7 @@
  *
  * @dest: destination string
  * @src: Source string
- *
+ * @n: character count to append
  * Return: Destination string
  */
 
