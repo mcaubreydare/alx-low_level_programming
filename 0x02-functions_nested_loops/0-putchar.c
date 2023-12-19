@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * main - putchar to print out putchar
  * Return: 0 0n seccuess
