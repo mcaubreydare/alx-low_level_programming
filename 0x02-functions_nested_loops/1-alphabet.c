@@ -1,17 +1,9 @@
-#include <stdio.h>
 #include "main.h"
 /**
- * main - print_alphabet - print the alphabet in lower case
+ * print_alphabet - print the alphabet in lower case
  * Return: 0 on success
  */
-void print_alphabet(void);
-
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
-void print_alphabet(void);
+void print_alphabet(void)
 
 {
 
@@ -22,5 +14,4 @@ void print_alphabet(void);
 		_putchar(i);
 	}
 	_putchar('\n');
-	return (0);
 }
